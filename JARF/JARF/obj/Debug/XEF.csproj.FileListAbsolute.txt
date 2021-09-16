@@ -1,0 +1,13 @@
+C:\Users\Sean\Documents\Visual Studio 2017\Projects\XEF\XEF\bin\Debug\XEF.exe.config
+C:\Users\Sean\Documents\Visual Studio 2017\Projects\XEF\XEF\bin\Debug\XEF.exe
+C:\Users\Sean\Documents\Visual Studio 2017\Projects\XEF\XEF\bin\Debug\XEF.pdb
+C:\Users\Sean\Documents\Visual Studio 2017\Projects\XEF\XEF\obj\Debug\XEF.csprojAssemblyReference.cache
+C:\Users\Sean\Documents\Visual Studio 2017\Projects\XEF\XEF\obj\Debug\XEF.Properties.Resources.resources
+C:\Users\Sean\Documents\Visual Studio 2017\Projects\XEF\XEF\obj\Debug\XEF.csproj.GenerateResource.cache
+C:\Users\Sean\Documents\Visual Studio 2017\Projects\XEF\XEF\obj\Debug\XEF.csproj.CoreCompileInputs.cache
+C:\Users\Sean\Documents\Visual Studio 2017\Projects\XEF\XEF\obj\Debug\XEF.exe
+C:\Users\Sean\Documents\Visual Studio 2017\Projects\XEF\XEF\obj\Debug\XEF.pdb
+C:\Users\Sean\Documents\Visual Studio 2017\Projects\XEF\XEF\obj\Debug\XEF.frmConnection.resources
+C:\Users\Sean\Documents\Visual Studio 2017\Projects\XEF\XEF\obj\Debug\XEF.frmDesigner.resources
+C:\Users\Sean\Documents\Visual Studio 2017\Projects\XEF\XEF\obj\Debug\XEF.Controls.ColumnDisplay.resources
+C:\Users\Sean\Documents\Visual Studio 2017\Projects\XEF\XEF\obj\Debug\XEF.Controls.TableDisplay.resources

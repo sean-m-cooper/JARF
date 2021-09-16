@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>JARF.Definitions</RootNamespace>
+    <AssemblyName>JARF.Definitions</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Queries\Interfaces\" />
+  </ItemGroup>
+
+</Project>
