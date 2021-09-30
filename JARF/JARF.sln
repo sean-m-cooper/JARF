@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XEF", "JARF\XEF.csproj", "{8C77AC78-AC20-48C3-A3A6-0E4804319080}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JARFDefs", "JARFDefs\JARFDefs.csproj", "{746A1977-F241-4597-86DD-ABBBFF755D49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XEF", "XEF\XEF.csproj", "{8C77AC78-AC20-48C3-A3A6-0E4804319080}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8C77AC78-AC20-48C3-A3A6-0E4804319080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8C77AC78-AC20-48C3-A3A6-0E4804319080}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8C77AC78-AC20-48C3-A3A6-0E4804319080}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8C77AC78-AC20-48C3-A3A6-0E4804319080}.Release|Any CPU.Build.0 = Release|Any CPU
 		{746A1977-F241-4597-86DD-ABBBFF755D49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{746A1977-F241-4597-86DD-ABBBFF755D49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{746A1977-F241-4597-86DD-ABBBFF755D49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{746A1977-F241-4597-86DD-ABBBFF755D49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C77AC78-AC20-48C3-A3A6-0E4804319080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C77AC78-AC20-48C3-A3A6-0E4804319080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C77AC78-AC20-48C3-A3A6-0E4804319080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C77AC78-AC20-48C3-A3A6-0E4804319080}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
