@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Text;
 
 namespace JARF.Definitions.Queries
 {
-    public class SubQueryField:QueryField
+    public class SubQueryField : QueryField, ISubQueryField
     {
         public string SubQuery { get; set; }
 

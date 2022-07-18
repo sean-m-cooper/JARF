@@ -4,7 +4,7 @@ namespace JARF.Definitions.Tables
 {
     public interface IKey
     {
-        List<KeyField> Fields { get; set; }
+        List<IKeyField> Fields { get; set; }
         bool IsClustered { get; set; }
         bool IsPrimary { get; set; }
     }

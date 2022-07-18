@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Text;
 
 namespace JARF.Definitions.Queries
 {
-    public abstract class QueryField
+    public abstract class QueryField : IQueryField
     {
         public string Field { get; set; }
         public string Alias { get; set; }

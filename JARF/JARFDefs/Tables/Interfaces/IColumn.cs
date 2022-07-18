@@ -1,6 +1,6 @@
 ﻿namespace JARF.Definitions.Tables
 {
-    public interface IColumn
+    public interface IColumn : IDbObject
     {
         bool AllowNull { get; set; }
         bool IsIdentity { get; set; }

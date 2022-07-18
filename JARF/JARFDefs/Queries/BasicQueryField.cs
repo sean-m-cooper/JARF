@@ -2,7 +2,7 @@
 
 namespace JARF.Definitions.Queries
 {
-    public class BasicQueryField : QueryField
+    public class BasicQueryField : QueryField, IBasicQueryField
     {
         public override void AppendQueryFieldString(ref StringBuilder sb, bool isFirstField)
         {
