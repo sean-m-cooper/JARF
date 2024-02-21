@@ -1,0 +1,176 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\repos\\DependencyParser\\DependencyParserTests\\DependencyParserTests.csproj": {}
+  },
+  "projects": {
+    "E:\\repos\\DependencyParser\\DependencyParserTests\\DependencyParserTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\repos\\DependencyParser\\DependencyParserTests\\DependencyParserTests.csproj",
+        "projectName": "DependencyParserTests",
+        "projectPath": "E:\\repos\\DependencyParser\\DependencyParserTests\\DependencyParserTests.csproj",
+        "packagesPath": "C:\\Users\\Sean\\.nuget\\packages\\",
+        "outputPath": "E:\\repos\\DependencyParser\\DependencyParserTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sean\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\repos\\DependencyParser\\DependencyParser\\DependencyParser.csproj": {
+                "projectPath": "E:\\repos\\DependencyParser\\DependencyParser\\DependencyParser.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.9.0, )"
+            },
+            "RichardSzalay.MockHttp": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "xunit.extensibility.execution": {
+              "target": "Package",
+              "version": "[2.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\repos\\DependencyParser\\DependencyParser\\DependencyParser.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\repos\\DependencyParser\\DependencyParser\\DependencyParser.csproj",
+        "projectName": "DependencyParser",
+        "projectPath": "E:\\repos\\DependencyParser\\DependencyParser\\DependencyParser.csproj",
+        "packagesPath": "C:\\Users\\Sean\\.nuget\\packages\\",
+        "outputPath": "E:\\repos\\DependencyParser\\DependencyParser\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sean\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "NuGet.Common": {
+              "target": "Package",
+              "version": "[6.9.1, )"
+            },
+            "NuGet.Protocol": {
+              "target": "Package",
+              "version": "[6.9.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
